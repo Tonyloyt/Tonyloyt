@@ -62,7 +62,7 @@ My Name is Anthony Mipawa. A Data Scientist & Software Engineer and Writer.
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="flutter"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="laravel"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
