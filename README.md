@@ -41,7 +41,7 @@ My Name is Anthony Mipawa. A Data Scientist & Software Engineer and Writer.
       <td> A Desktop Application build with laravel for Solar service cost estimation such as pannel , Battery capacity etc depending on circuit arrangement and customers requirements.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Tonyloyt/DS-ML-Challenges/tree/main/TanzaniaTourism%20Hackathon%202020%20Second%20place%20Winning%20Solution"><b>Tanzania Tourism Expenditure Predictor!</b></a></td>
+      <td><a href="https://github.com/Tonyloyt/Tourism-Expenditure-in-Tanzania-Analysis"><b>Tanzania Tourism Expenditure Predictor!</b></a></td>
       <td>A machine learning model to predict how much a tourist will spend when visiting Tanzania.The model targeted to be used by tour operators and Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania.</td>
     </tr>
      <tr>
