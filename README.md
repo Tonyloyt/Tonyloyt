@@ -45,7 +45,7 @@ My Name is Anthony Mipawa. A Data Scientist & Software Engineer and Writer.
       <td>A machine learning model to predict how much a tourist will spend when visiting Tanzania.The model targeted to be used by tour operators and Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania.</td>
     </tr>
      <tr>
-      <td><a href="https://github.com/Tonyloyt/DS-ML-Challenges/tree/main/UmojaHack2021"><b>UmojaHack2021 - Delivery Rider Response Challenge.</b></a></td>
+      <td><a href="https://github.com/Tonyloyt/Delivery-Riders-Response-Challenge"><b>UmojaHack2021 - Delivery Rider Response Challenge.</b></a></td>
       <td> Build a machine learning model to predict whether a rider will accept,decline or ignore an order sent by customers.The target was to improve customer experience and create more effective service to users at Sendy company. My solution won second prize on UmojaHack2021 Intermediate challenge...</td>
     </tr>
   </tbody>
