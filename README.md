@@ -54,6 +54,7 @@ My Name is Anthony Mipawa. A Data Scientist & Software Engineer and Writer.
 
 
  ### 📝 Latest Writing
+ * [Blogs about Natural language processing and  data Science ](https://blog.neurotech.africa/author/anthony/)
  * [Benefits of UmojaHack Africa Inter-University Machine Learning Hackathon Published on Medium](https://hilanth7.medium.com/benefits-of-umojahack-africa-inter-university-machine-learning-hackathon-563639361f35)
  * [Nine Things I Learned About Machine Learning During UmojaHack Africa 2021 Published on Medium](https://hilanth7.medium.com/nine-things-i-learned-about-machine-learning-during-umojahack-africa-2021-8f6a4a2db16a)
 
