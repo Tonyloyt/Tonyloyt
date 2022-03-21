@@ -7,7 +7,6 @@ My Name is Anthony Mipawa. A Data Scientist & Software Engineer and Writer.
  
  
  - 👯 My background is in software engineering with a focus on data science professionally, with 2 years experience in Machine learning predictive modeling analysis using python. Knowledgeable with exploring insights from data, data reporting and analysis and applying software engineering principles.
-- 👯 I’m looking for opportunity to practices and grow my career through working on real world challenges and add value to products.
 
 - 👯 My pressure to facilitate African students and the young generation interested in doing Data science so that to raise our productivity and solve real-life challenges.
 
