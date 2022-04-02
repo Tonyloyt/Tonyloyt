@@ -96,8 +96,9 @@ My Name is Anthony Mipawa. A Data Scientist & Software Engineer and Writer.
 
 
 ### Worked with 
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
+<p align='center'>
+  
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn">
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="heroku"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
@@ -110,8 +111,11 @@ My Name is Anthony Mipawa. A Data Scientist & Software Engineer and Writer.
 <!-- <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"></code> -->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code> -->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code> -->
+  </code>
+</p>
 
-</code>
+
+
 
   
   
