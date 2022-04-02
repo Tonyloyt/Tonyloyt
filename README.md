@@ -53,8 +53,10 @@ My Name is Anthony Mipawa. A Data Scientist & Software Engineer and Writer.
 
 
  ### 📝 Latest Writing
+ * [Blog about how aspring data scientists should build their career to be professional](https://blog.neurotech.africa/words-to-aspiring-data-scientists/)
+ * [Blog about swahili sentiment classification using Transformers](https://blog.neurotech.africa/swahili-text-classification-using-transformers/)
  * [Blogs about Natural language processing and  data Science ](https://blog.neurotech.africa/author/anthony/)
- * [Benefits of UmojaHack Africa Inter-University Machine Learning Hackathon Published on Medium](https://hilanth7.medium.com/benefits-of-umojahack-africa-inter-university-machine-learning-hackathon-563639361f35)
+ * [Benefits of UmojaHack Africa Inter-University Machine Learning Hackathon Published on Medium](https://zindi.medium.com/2021-winner-tony-mipawa-shares-why-you-should-join-zindi-for-umojahack-africa-2022-africas-8dc65792e743)
  * [Nine Things I Learned About Machine Learning During UmojaHack Africa 2021 Published on Medium](https://hilanth7.medium.com/nine-things-i-learned-about-machine-learning-during-umojahack-africa-2021-8f6a4a2db16a)
 
  
@@ -103,10 +105,10 @@ My Name is Anthony Mipawa. A Data Scientist & Software Engineer and Writer.
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="flutter"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
+<!-- <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel"></code> -->
+<!-- <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"></code> -->
+<!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code> -->
+<!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code> -->
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 </code>
 
