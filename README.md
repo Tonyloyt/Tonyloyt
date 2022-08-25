@@ -15,7 +15,7 @@ I'm a computer scientist and writer.
 ---
  ### 🗣️ Tech-Talks
  * [introduction to python programming language - [Microsoft Bootcamp & AI Gaming Event 2021]](https://www.youtube.com/watch?v=CWFdxFhDJj4)
- * [Best Practice of Deploying Scalable Machine Learning Models for Data Scientist - [Pycon Conference 2021]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.gfc78924f3a_2_227)
+ * [Best Practice of Deploying Scalable Machine Learning Models for Data Scientist - [Pycon Conference 2021]]()
  *  [Introduction to python programming language for Beginners  - [Pycon Conference 2021]](https://www.youtube.com/watch?v=B685dyLdi8o&t=2376s)
  *  [Roadmap/How to dive in Data Science and Machine Learning   - [Pycon Conference 2020]](https://www.youtube.com/watch?v=7UetFzXu0hU)
 
@@ -31,10 +31,10 @@ I'm a computer scientist and writer.
 <a href="mailto:hilanth7@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anthony-mipawa-b92bb6177/">
+  <a href="https://www.linkedin.com/in/anthonymipawa/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@hilanth7">                                                                               
+  <a href="https://medium.com/@mipawa">                                                                               
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
 
