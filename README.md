@@ -2,7 +2,7 @@
 
 I'm a computer scientist and writer. 
 
-- 🔭 I’m currently learning API design and development with FastAPI, SQLAlchemy and Alembic.
+- 🔭  I’m currently learning API design and development with FastAPI, SQLAlchemy and Alembic.
 
  ### 📝 Latest Writing
  * [Blog about how aspring data scientists should build their career to be professional](https://blog.neurotech.africa/words-to-aspiring-data-scientists/)
@@ -12,7 +12,7 @@ I'm a computer scientist and writer.
  * [Nine Things I Learned About Machine Learning During UmojaHack Africa 2021 Published on Medium](https://hilanth7.medium.com/nine-things-i-learned-about-machine-learning-during-umojahack-africa-2021-8f6a4a2db16a)
 
 
- ### Tech-Talks
+ ### 🛠️ Tech-Talks
  * [introduction to python programming language - [Microsoft Bootcamp & AI Gaming Event 2021]](https://www.youtube.com/watch?v=CWFdxFhDJj4)
  * [Best Practice of Deploying Scalable Machine Learning Models for Data Scientist - [Pycon Conference 2021]](https://docs.google.com/presentation/d/1ZYkwIN2rig8n00r-afPBgPU1_Kk0QvhszXBAereFoAU/edit#slide=id.gfc78924f3a_2_227)
  *  [Introduction to python programming language for Beginners  - [Pycon Conference 2021]](https://www.youtube.com/watch?v=B685dyLdi8o&t=2376s)
