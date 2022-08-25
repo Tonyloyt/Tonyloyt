@@ -40,6 +40,7 @@ I'm a computer scientist and writer.
 
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tonyloyt&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true" alt="Anthony" />
+
 ---
 ### Profile Views
 
