@@ -1,9 +1,6 @@
 ### Hi, I'm Anthony 👋
 
 I'm a computer scientist and writer. 
-
-- 🔭  I’m currently learning API design and development with FastAPI, SQLAlchemy and Alembic.
-
 ---
  ### 📝 Latest Writing
  * [Blog about how aspring data scientists should build their career to be professional](https://blog.neurotech.africa/words-to-aspiring-data-scientists/)
