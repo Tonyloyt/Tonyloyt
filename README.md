@@ -1,6 +1,6 @@
 ### Hi, I'm Anthony 👋
 
-#### I'm a data scientist and writer. 
+#### I'm a s/w engineer and writer. 
 ---
  ### 📝 Latest Writing
  * [Blog about how aspring data scientists should build their career to be professional](https://blog.neurotech.africa/words-to-aspiring-data-scientists/)
