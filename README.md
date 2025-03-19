@@ -1,19 +1,12 @@
-Why did the data scientist break up with the company?
-Too many missing values and they wouldn’t commit… to a clean dataset.
 ---
- ### 📝 Latest Writing
- * [Blog about how aspring data scientists should build their career to be professional](https://blog.neurotech.africa/words-to-aspiring-data-scientists/)
- * [Blog about swahili sentiment classification using Transformers](https://blog.neurotech.africa/swahili-text-classification-using-transformers/)
- * [Blogs about Natural language processing and  data Science ](https://blog.neurotech.africa/author/anthony/)
- * [Benefits of UmojaHack Africa Inter-University Machine Learning Hackathon Published on Medium](https://zindi.medium.com/2021-winner-tony-mipawa-shares-why-you-should-join-zindi-for-umojahack-africa-2022-africas-8dc65792e743)
- * [Nine Things I Learned About Machine Learning During UmojaHack Africa 2021 Published on Medium](https://hilanth7.medium.com/nine-things-i-learned-about-machine-learning-during-umojahack-africa-2021-8f6a4a2db16a)
+> *"In a world full of noise, I seek the signal. I clean data the way some people clean their house — when guests (a.k.a. models) are coming."*
 
----
- ### 🗣️ Tech-Talks
- * [introduction to python programming language - [Microsoft Bootcamp & AI Gaming Event 2021]](https://www.youtube.com/watch?v=CWFdxFhDJj4)
- * [Best Practice of Deploying Scalable Machine Learning Models for Data Scientist - [Pycon Conference 2021]]()
- *  [Introduction to python programming language for Beginners  - [Pycon Conference 2021]](https://www.youtube.com/watch?v=B685dyLdi8o&t=2376s)
- *  [Roadmap/How to dive in Data Science and Machine Learning   - [Pycon Conference 2020]](https://www.youtube.com/watch?v=7UetFzXu0hU)
+🧠 Data scientist by day, feature engineer by mindset.  
+📍 Living somewhere between raw input and actionable insight.  
+🔍 Currently predicting the future with 80% confidence and a ±5% margin of error.  
+💡 Believer in clean datasets, reproducible code, and the occasional SQL pun.  
+
+> *“Still waiting for a dataset that doesn’t need cleaning.”*
 
  ---
   ### Let's Connect
