@@ -1,7 +1,7 @@
 > *"In a world full of noise, I seek the signal.  
 I clean data the way some people clean their house — when guests (a.k.a. models) are coming."*
 
-🧠 Data scientist by day, feature engineer by mindset.  
+🧠 Data scientist by day, backend whisperer by night.  
 📍 Living somewhere between raw input and actionable insight.  
 🔍 Currently predicting the future with 80% confidence and a ±5% margin of error.  
 💡 Believer in clean datasets, reproducible code, and the occasional SQL pun.
@@ -10,10 +10,12 @@ I clean data the way some people clean their house — when guests (a.k.a. model
 
 ---
 
-### ⚡ Let's Connect
+### 🤝 Connect with Me
 
-I'm best reached via [LinkedIn](https://www.linkedin.com/in/anthonymipawa/).  
-Always open to interesting conversations and collaboration.
+If you've ever debugged a pipeline at 2 AM or argued with a model about bias—  
+we'll probably get along.
+
+Let's talk data, ideas, or just share good API documentation.
 
 <p align="center">
   <a href="https://twitter.com/LoytTony">
