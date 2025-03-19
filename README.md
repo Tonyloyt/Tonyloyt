@@ -1,4 +1,3 @@
----
 > *"In a world full of noise, I seek the signal.  
 I clean data the way some people clean their house — when guests (a.k.a. models) are coming."*
 
