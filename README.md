@@ -1,6 +1,5 @@
-### Hi, I'm Anthony 👋
-
-#### I'm a software engineer and writer. 
+Why did the data scientist break up with the company?
+Too many missing values and they wouldn’t commit… to a clean dataset.
 ---
  ### 📝 Latest Writing
  * [Blog about how aspring data scientists should build their career to be professional](https://blog.neurotech.africa/words-to-aspiring-data-scientists/)
