@@ -12,8 +12,7 @@ I clean data the way some people clean their house — when guests (a.k.a. model
 
 ### 🤝 Connect with Me
 
-If you've ever debugged a pipeline at 2 AM or argued with a model about bias—  
-we'll probably get along.
+If you've ever debugged a pipeline at 2 AM or argued with a model about bias we'll probably get along.
 
 Let's talk data, ideas, or just share good API documentation.
 
